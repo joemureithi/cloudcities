@@ -3,6 +3,7 @@ Python program to retrieve and map cloud coverage in cities from OpenWeatherMap 
 
 # Setup
 Requires Python 3.6 and above
+Clone this repo https://github.com/joemureithi/cloudcities.git
 Create the environment using the environment.yml file: conda env create -f environment. yml
 
 # Run
