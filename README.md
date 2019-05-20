@@ -8,7 +8,7 @@ Python program to retrieve and map cloud coverage in cities from OpenWeatherMap 
 
 # Data and resources
 * Uses a list of cities in a shapefile obtained from https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-populated-places/ . The shapefile has been modified using the *data_preparation.py* to include a continent field.
-* Requires an access token to retreieve weather data from OpenWeather API.
+* Requires an access token to retrieve weather data from OpenWeather API.
 
 # Run
 Open and run *cloudcities.ipynb* Jupyter notebook.
